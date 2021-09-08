@@ -6,11 +6,11 @@ A new Flutter project.
 
 This is a flutter ecommerce project using flutter framework and firebase.
 Features:
-Register
-Login
-Authentication
-Forget Password
-Add to Cart
-View Product Description
-Save Product
-Logout
+* Register
+* Login
+* Authentication
+* Forget Password
+* Add to Cart
+* View Product Description
+* Save Product
+* Logout
